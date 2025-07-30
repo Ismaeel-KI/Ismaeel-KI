@@ -43,18 +43,6 @@ When I’m not coding, I’m usually exploring emerging tech, sharing knowledge,
 
 ---
 
-## 📌 Pinned Projects
-
-> *(Replace these with actual projects from your GitHub)*
-
-- [🔗 Project One](https://github.com/Ismaeel-KI/LinkedIn-Scraping.git) — Intelligent text summarizer using GPT 🧠
-- [🔗 Project Two](https://github.com/Ismaeel-KI/Break-Out.git) — Full-stack blog app with Flask backend 📝
-- [🔗 Project Three](https://github.com/Ismaeel-KI/Warehouse-sector.git) — AI-based meeting transcript analyzer 📋
-
-![Projects](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhqczVkZXUydXZzN21kNmRueDk1czV5MHhkNHo1NjFpM3k3Y3A4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif)
-
----
-
 ## 📫 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaeel-ki)
@@ -67,8 +55,3 @@ When I’m not coding, I’m usually exploring emerging tech, sharing knowledge,
 Got a cool project idea or just want to connect? I'm open to collaborations, internships, and contributing to open-source!
 
 ---
-
-## 🎉 Fun Fact
-
-I'm on a mission to land 4–5 internships before I graduate. Every line of code I write brings me closer to that goal 💪
-
