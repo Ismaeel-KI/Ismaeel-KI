@@ -1,38 +1,41 @@
 # 👋 Hi there, I'm Kamaal Ismaeel K I!
 
-## 🌟 About Me
+<div align="center">
 
-I'm an aspiring AI & ML developer who enjoys building intelligent applications and solving real-world problems. I thrive in projects that blend creativity, logic, and automation.
+<p align="center">
+  <b>Data science × machine learning × real-world problems</b><br>
+  Focused on analysis, modeling, and automation<br>
+  • Always learning • building • contributing
+</p>
 
-When I’m not coding, I’m usually exploring emerging tech, sharing knowledge, or diving into open-source contributions.
 
-![Coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1jOTA3cWw0dDVlZ2EydjZpZDdpbDhzcnhkcnZ5b2JnY3QweDVmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif)
+
+![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpzY3N1a2licndvcm9iOTRvMXA1ZmhqbGc1NHZlejMwbHdlbWZ2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.webp)
 
 ---
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
 <!-- Programming Languages -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white)
 
 <!-- Frameworks -->
 **Frameworks & Tools:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-F7931E?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 
 ---
 
